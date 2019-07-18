@@ -1,5 +1,6 @@
 # CIQ-Pi
-Sample to show a Garmin Watch talking to a Raspberry Pi
+Sample to show a Garmin Watch talking to a Raspberry Pi.
+
 There a two things here:
 1) A Garmin Connect IQ App (CIQpi.zip)
 2) A Compressed tar file with the assocaited code for the Raspberry Pi (ciq-ble.tar.xz)
